@@ -5,3 +5,4 @@ public interface Modulo {
 	public void Operacion();
 	
 }
+
